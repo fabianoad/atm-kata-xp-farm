@@ -11,3 +11,5 @@ pomodoro #1 30min
 1 - test if function atm returns -1 if no parameter is sent [ failed ]
 
 2 - test if function atm returns -1 if no parameter is sent [ success ] - commit code
+
+3 - send a value(100) between 1 and 1500 and atm function should return a specific number of bank notes(1)
