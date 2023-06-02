@@ -18,4 +18,6 @@ pomodoro #1 30min
 
 5 - send a value(500) between 1 and 1500 and atm function should return a specific number of bank notes(1) [ failed ]
 
+6 - send a value(500) between 1 and 1500 and atm function should return a specific number of bank notes(1) [ success ]
+
 end of pomodoro #1
