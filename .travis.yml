@@ -10,6 +10,9 @@ cache:
   npm: true
 addons:
   sonarcloud: true
+  organization: "fabianoad-atm-kata"
+  token:
+    secure: dcmqpxT5Zshywtu0SZh0k3qXviW9Wag7XM7yMh2JvoK1nyNngp0UDk/QazF/Eu4clXfUXhGDJo+cH72DKzJXsS0UPy9qjoi4RKlZgayjXt9xHFuCkbGw6WrLGjRcu9dDmC6VoFC51l/MMXAujWsMvzZO7WPuVBypGfjpSni3cgp3avg9SOFBszwCj0yEqONJf4cDV4lMinePsp08JsARoR7HUdseZaTzBw4XR1DU13rsmCcFejxn/tt7TG5jceW+mo3VhHAgYHHRG0gj920kAxGb7HrmFmH1b29Y0OCHylJhr3HwYuQ8jIKmxxqRdp1DMWjKEkh1oKsgxqdQg8yHp557mnmY+LHn/p8qa5rK9CpSJ9Pi1j3LrQw2hKgBtilKQrzCG9GRML4TtMyZPkcFV2+6tFWzHTLHdNuxJzdvcFZSibMUFjX9YRYczv40Zs5wawl7wSE4VsOHrCVPdkVlQ4gTiCJgN4CKP+yBpcgaHmtD+FJ9eS+KXF8/nuoADg7DBvVTWhWd2zuNrTLi8kcjUd3YgyVibYEwnchJU0t5gxraIUYxvsBnaO8TyzGdBVzGUIO7c2TEOFoLz51pSp5xC7Gyijpyp6rEZ7VqMpLb3KmtuAE21z3tcMUlJh8kpco9BxQTrnWGnxighhLpWMlHOheF/3+a9uWa/TJNX745I5U=
 stages:
   - name: Unit test & sonar-scanner
 jobs:
