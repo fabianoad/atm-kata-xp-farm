@@ -12,4 +12,10 @@ pomodoro #1 30min
 
 2 - test if function atm returns -1 if no parameter is sent [ success ] - commit code
 
-3 - send a value(100) between 1 and 1500 and atm function should return a specific number of bank notes(1)
+3 - send a value(100) between 1 and 1500 and atm function should return a specific number of bank notes(1) [ failed ]
+
+4 - send a value(100) between 1 and 1500 and atm function should return a specific number of bank notes(1) [ success ] - commit code
+
+5 - send a value(500) between 1 and 1500 and atm function should return a specific number of bank notes(1) [ failed ]
+
+end of pomodoro #1
