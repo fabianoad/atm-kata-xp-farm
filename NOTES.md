@@ -19,3 +19,5 @@ pomodoro #2 - 30min
 1 - give a value of 30 and atm function should return 2 [ failed ]
 
 2 - give a value of 30, check if it's possible to withdraw based on available bank notes and atm function should return 2. Code refactored [ success ]
+
+3 - refactor code when given 30 as parameter, check if the value is in the array and calculate to return 2. [ success ]
