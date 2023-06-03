@@ -3,3 +3,5 @@
 6 - .gitignore fixed [ ok ]
 
 end of pomodoro #1
+
+Travis personal account test.
