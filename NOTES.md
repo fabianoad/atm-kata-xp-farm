@@ -43,3 +43,5 @@ end of pomodoro #3
 pomodoro #4 - 30min
 
 1 - perform other tests to check if the atm function returns correct count values. [ success ]
+
+PR to test travis CI
