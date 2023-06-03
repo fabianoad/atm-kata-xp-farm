@@ -3,5 +3,5 @@ projectKey=fabianoad_atm-kata-xp-farm
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.41856
 dashboardUrl=https://sonarcloud.io/dashboard?id=fabianoad_atm-kata-xp-farm
-ceTaskId=AYiDGdR3v80-vM2RQOxR
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYiDGdR3v80-vM2RQOxR
+ceTaskId=AYiDIz5CuyoVdZp8849r
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYiDIz5CuyoVdZp8849r

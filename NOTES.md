@@ -29,3 +29,5 @@ pomodoro #3
 1 - check if it is returned -1 when a string is given as parameter[ failed ]
 
 2 - line 7 refactored by putting !Number(value) condition [ success ]
+
+3 - refactor code to return 2 when number 30 is given as parameter by calculating it instead of using a conditional if - line 17 [ success ]
