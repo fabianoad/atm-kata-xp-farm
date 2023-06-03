@@ -19,3 +19,9 @@ describe("pomodoro #2", () => {
     expect(atm(30)).toBe(2);
   });
 });
+
+describe("pomodoro #3", () => {
+  test("should return 2 when given 30 by calculating it", () => {
+    expect(atm("a")).toBe(-1);
+  });
+});

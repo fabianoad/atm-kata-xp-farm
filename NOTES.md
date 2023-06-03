@@ -21,3 +21,11 @@ pomodoro #2 - 30min
 2 - give a value of 30, check if it's possible to withdraw based on available bank notes and atm function should return 2. Code refactored [ success ]
 
 3 - refactor code when given 30 as parameter, check if the value is in the array and calculate to return 2. [ success ]
+
+end of pomodoro #2
+
+pomodoro #3
+
+1 - check if it is returned -1 when a string is given as parameter[ failed ]
+
+2 - line 7 refactored by putting !Number(value) condition [ success ]

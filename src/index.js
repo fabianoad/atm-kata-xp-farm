@@ -4,7 +4,7 @@ function atm(value = 0) {
   if (bankNotes.includes(value)) {
     count = 1;
   } else if (value === 30) return 2;
-  return value < 1 || value > 1500 ? -1 : count;
+  return value < 1 || value > 1500 || !Number(value) ? -1 : count;
 }
 
 module.exports = {
