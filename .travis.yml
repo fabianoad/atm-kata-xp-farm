@@ -1,6 +1,8 @@
 os: linux
 language: node_js
 dist: focal
+before_install:
+  - nvm install 16 && nvm use 16
 install:
   - npm ci
 cache:
