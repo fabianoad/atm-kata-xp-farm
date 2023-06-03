@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1685829339239" clover="3.2.0">
-  <project timestamp="1685829339239" name="All files">
+<coverage generated="1685829907315" clover="3.2.0">
+  <project timestamp="1685829907315" name="All files">
     <metrics statements="13" coveredstatements="12" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1" elements="25" coveredelements="24" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
     <file name="index.js" path="/Users/fabianoad/Applications-IBM/atm-kata-xp-farm/src/index.js">
       <metrics statements="13" coveredstatements="12" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
-      <line num="2" count="7" type="stmt"/>
-      <line num="3" count="7" type="cond" truecount="5" falsecount="0"/>
-      <line num="4" count="4" type="stmt"/>
-      <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="2" count="11" type="stmt"/>
+      <line num="3" count="11" type="cond" truecount="5" falsecount="0"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
       <line num="6" count="2" type="stmt"/>
-      <line num="9" count="2" type="stmt"/>
-      <line num="10" count="10" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="5" type="stmt"/>
-      <line num="13" count="5" type="stmt"/>
-      <line num="14" count="5" type="stmt"/>
-      <line num="16" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="16" count="15" type="cond" truecount="2" falsecount="0"/>
       <line num="18" count="0" type="stmt"/>
       <line num="21" count="1" type="stmt"/>
     </file>

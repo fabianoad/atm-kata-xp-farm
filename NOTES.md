@@ -37,3 +37,9 @@ pomodoro #3
 4 - return -1 when 1501 is given as paramenter [ failed]
 
 5 - return -1 when 1501 is given as paramenter [ success ]
+
+end of pomodoro #3
+
+pomodoro #4 - 30min
+
+1 - perform other tests to check if the atm function returns correct count values. [ success ]

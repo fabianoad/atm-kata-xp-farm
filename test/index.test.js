@@ -33,3 +33,21 @@ describe("pomodoro #3", () => {
     expect(atm(1501)).toBe(-1);
   });
 });
+
+describe("pomodoro #4", () => {
+  test("should return -1 when given 1501 by calculating it", () => {
+    expect(atm(3000)).toBe(-1);
+  });
+
+  test("should return -1 when given -1 by calculating it", () => {
+    expect(atm(-1)).toBe(-1);
+  });
+
+  test("should return 3 when given 800 by calculating it", () => {
+    expect(atm(800)).toBe(3);
+  });
+
+  test("should return -1 when given an empty string", () => {
+    expect(atm(" ")).toBe(-1);
+  });
+});
