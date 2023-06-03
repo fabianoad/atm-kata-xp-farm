@@ -24,4 +24,12 @@ describe("pomodoro #3", () => {
   test("should return 2 when given 30 by calculating it", () => {
     expect(atm("a")).toBe(-1);
   });
+
+  test("should return 3 when given 1500 by calculating it", () => {
+    expect(atm(1500)).toBe(3);
+  });
+
+  test("should return -1 when given 1501 by calculating it", () => {
+    expect(atm(1501)).toBe(-1);
+  });
 });

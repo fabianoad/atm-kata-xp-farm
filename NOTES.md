@@ -31,3 +31,9 @@ pomodoro #3
 2 - line 7 refactored by putting !Number(value) condition [ success ]
 
 3 - refactor code to return 2 when number 30 is given as parameter by calculating it instead of using a conditional if - line 17 [ success ]
+
+3 - return 3 if value given is 1500
+
+4 - return -1 when 1501 is given as paramenter [ failed]
+
+5 - return -1 when 1501 is given as paramenter [ success ]
